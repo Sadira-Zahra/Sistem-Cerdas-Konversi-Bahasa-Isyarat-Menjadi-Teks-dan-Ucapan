@@ -1,0 +1,14 @@
+pywin32-308-cp311-cp311-win_amd64.whl/
+    pywin32/
+        __init__.py
+        pywintypes.py
+        ...
+    pywin32_system32/
+        pywintypes.dll
+        ...
+    METADATA
+    WHEEL
+    RECORD
+    ...
+
+
